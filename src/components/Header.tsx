@@ -21,7 +21,7 @@ const Header = () => {
           <div className="hidden md:flex items-center gap-6">
             <div className="flex items-center gap-2 text-sm text-muted-foreground">
               <Mail className="w-4 h-4" />
-              <span>info@saawariyapackers.com</span>
+              <span>info@saawariyapackers.site</span>
             </div>
             
             <Button 

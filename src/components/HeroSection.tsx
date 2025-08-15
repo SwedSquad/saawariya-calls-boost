@@ -78,7 +78,7 @@ const HeroSection = () => {
           <div className="flex flex-col sm:flex-row items-center justify-center gap-6 mt-8 text-sm opacity-80">
             <div className="flex items-center gap-2">
               <Mail className="w-4 h-4" />
-              <span>info@saawariyapackers.com</span>
+              <span>info@saawariyapackers.site</span>
             </div>
             <div className="flex items-center gap-2">
               <MapPin className="w-4 h-4" />
